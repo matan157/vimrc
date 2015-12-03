@@ -1,5 +1,5 @@
 set number
-set cursor line
+set cursorline
 set autoindent
 set showmatch
 
